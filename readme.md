@@ -5,6 +5,8 @@ In this bundle are included :
 - JQuery
 - CleaveJS (Input formating)
 - AlpineJS
+- Wow JS
+- Confetti JS
 - Tailwind Forms
 - Tailwind Typography
 - Tracy (PHP Debuging)
@@ -14,7 +16,7 @@ In this bundle are included :
 
 
 Useful links :
-- heroicons.com
-- tailwindcss.com/docs
+- https://heroicons.com
+- https://tailwindcss.com/docs
 - https://tracy.nette.org
 - https://respect-validation.readthedocs.io/en/latest/
