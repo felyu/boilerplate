@@ -1,0 +1,30 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "@tailwindcss/forms": "^0.4.0",
+    "alpinejs": "^3.8.1",
+    "autoprefixer": "^10.4.2",
+    "cleave.js": "^1.6.0",
+    "jquery": "^3.6.0",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwindwatch": "npx tailwindcss -i ./public/input.css -o ./dist/output.css --watch",
+    "update-jquery": "npm install jquery",
+    "update-cleavejs": "npm install --save cleave.js",
+    "update-alpinejs": "npm install alpinejs",
+    "update-twtypo": "npm install -D @tailwindcss/typography",
+    "update-twforms": "npm install @tailwindcss/forms"
+  },
+  "keywords": [],
+  "author": "Félix Yusupov",
+  "license": "ISC"
+}

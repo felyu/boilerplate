@@ -1,0 +1,9 @@
+{
+    "require": {
+        "tracy/tracy": "^2.9",
+        "respect/validation": "^2.2",
+        "erusev/parsedown": "^1.7",
+        "erusev/parsedown-extra": "^0.8.1",
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
