@@ -19,7 +19,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tailwindwatch": "npx tailwindcss -i ./public/input.css -o ./dist/output.css --watch",
+    "tailwindwatch": "npx tailwindcss -i ./public_html/input.css -o ./public_html/css/style.css --watch",
     "update-jquery": "npm install jquery",
     "update-cleavejs": "npm install --save cleave.js",
     "update-alpinejs": "npm install alpinejs",

@@ -4,6 +4,14 @@
         "respect/validation": "^2.2",
         "erusev/parsedown": "^1.7",
         "erusev/parsedown-extra": "^0.8.1",
-        "phpmailer/phpmailer": "^6.5"
+        "phpmailer/phpmailer": "^6.5",
+        "vlucas/phpdotenv": "^5.5",
+        "twilio/sdk": "^6.44",
+        "monolog/monolog": "^2.9.1",
+        "eleirbag89/telegrambotphp": "^1.4",
+        "giggsey/libphonenumber-for-php-lite": "^8.13",
+        "catfan/medoo": "^2.1",
+        "http-interop/http-factory-guzzle": "^1.0",
+        "wallee/sdk": "^3.2"
     }
 }
